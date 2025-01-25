@@ -1,0 +1,6 @@
+flask
+whisper
+ffmpeg-python
+pydub
+sentence-transformers
+nltk
